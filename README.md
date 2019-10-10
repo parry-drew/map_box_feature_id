@@ -1,4 +1,4 @@
-#Map Box Feature ID
+# Map Box Feature ID
 
 The [Create a hover effect](https://docs.mapbox.com/mapbox-gl-js/example/hover-styles/) example from Mapbpox GL requires an id number for each feature that is outside "properties" array. This script will add this id to a GeoJSON.
 
